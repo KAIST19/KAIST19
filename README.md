@@ -1,7 +1,5 @@
 # Welcome!
 
----
-
 ## Bio
 
 - CS student at KAIST
