@@ -12,8 +12,7 @@
 
 | Project | Description |
 | ------- | ----------- |
-| [algorithm](https://github.com/KAIST19/algorithm.git) | Python codes for algorithms and data structures|
-| [KAIST19](https://kaist19.github.io) | KAIST19 website |
+| [Algorithm](https://github.com/KAIST19/algorithm.git) | Python codes for algorithms and data structures|
 
 ## Contact
 
