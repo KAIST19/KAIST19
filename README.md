@@ -1,5 +1,3 @@
-{::options parse_block_html="true" /}
-
 # Welcome!
 > **Looking for an internship!**
 
@@ -9,12 +7,6 @@
 - Living in Daejeon, South Korea
 - CS major at KAIST
 - Can speak Korean, English (working on French and Spanish)
-<details>
-    <summary> <b>Click here to see my CV</b> </summary>
-
-        * CV 
-
-  </details>
 
 ## Projects
 
