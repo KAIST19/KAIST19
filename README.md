@@ -13,7 +13,7 @@
 | Project | Description |
 | ------- | ----------- |
 | [Algorithm](https://github.com/KAIST19/algorithm.git) | Python codes for algorithms and data structures|
-
+| [GitHub](https://github.com/KAIST19/GitHub.git) | What's GitHub? |
 ## Contact
 
 - [email](mailto:kaist19@kaist.ac.kr)
