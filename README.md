@@ -12,7 +12,7 @@
 
 | Project | Description |
 | ------- | ----------- |
-| [snippets](https://github.com/KAIST19/snippets.git) | Python snippets for algorithms and data structures. |
+| [algorithm](https://github.com/KAIST19/algorithm.git) | Python codes for algorithms and data structures|
 | [KAIST19](https://kaist19.github.io) | KAIST19 website |
 
 ## Contact
