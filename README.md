@@ -1,10 +1,11 @@
 # Welcome!
-
+> **Looking for an internship!**
 ## Bio
 
-- CS student at KAIST
-- Interested in Computer Science, Computational Psychology, and languages.
-- Can speak Korean, English. (Working on French and Spanish)
+- 김강현 (KH Kim)
+- Living in Daejeon, South Korea
+- CS major at KAIST
+- Can speak Korean, English (working on French and Spanish)
 
 ## Projects
 
@@ -16,3 +17,6 @@
 ## Contact
 
 - [email](mailto:kaist19@kaist.ac.kr)
+- [linkedin](https://www.linkedin.com/in/강현-김-29ba44192/)
+- [facebook](https://www.facebook.com/deanjackson2468/)
+- [instagram](https://www.instagram.com/__kkh__/)
