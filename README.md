@@ -1,5 +1,5 @@
 # Welcome!
-> **Looking for an internship!**
+> **Looking for an internship**
 
 ## About
 
@@ -12,8 +12,8 @@
 
 | Project | Description |
 | ------- | ----------- |
-| [Algorithm](https://github.com/KAIST19/algorithm.git) | Python codes for algorithms and data structures|
-| [GitHub](https://github.com/KAIST19/GitHub.git) | What's GitHub? |
+| [Algorithm](https://github.com/KAIST19/algorithm.git) | Python codes for algorithms and data structures<br>(working on it)|
+| [GitHub](https://github.com/KAIST19/GitHub.git) | What's GitHub?<br>(working on it)|
 ## Contact
 
 - [email](mailto:kaist19@kaist.ac.kr)
