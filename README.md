@@ -14,7 +14,7 @@
 | ------- | ----------- |
 | [Algorithm](https://github.com/KAIST19/algorithm.git) | Python codes for algorithms and data structures<br>(working on it)|
 | [GitHub](https://github.com/KAIST19/GitHub.git) | What's GitHub?<br>(working on it)|
-| [Pendejo](https://kaist19.github.com/pendejo) | The website of "pendejo" where I used to make tacos |
+| [Pendejo](https://kaist19.github.io/pendejo) | The website of "pendejo" where I used to make tacos |
 | [Python-lib](https://github.com/KAIST19/python-lib.git) | How to use python libraries <br>(working on it)|
 
 ## Contact
