@@ -12,8 +12,8 @@
 
 | Project | Description |
 | ------- | ----------- |
-| [Pendejo](http://kaist19.github.io/pendejo) | I made a website for the restaurant I used to work for |
-| Military | While serving in the army, I created some programs on Excel including Battalion status manager, roster generator, minesweeper, etc. I couldn't get those files from the military infranet for security reasons though. |
+| [Pendejo](http://kaist19.github.io/pendejo) | I made a website for the restaurant I used to work at |
+| Military | While serving in the army, I created some programs including Battalion status manager, roster generator, minesweeper, etc, using VBA in Excel, HTML, CSS and JavaScript. I couldn't get those files from the military infranet for security reasons though. |
 
 ## Documents
 
