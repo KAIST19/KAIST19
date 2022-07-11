@@ -12,12 +12,17 @@
 
 | Project | Description |
 | ------- | ----------- |
+| [Pendejo](http://kaist19.github.io/pendejo) | I made a website for the restaurant I used to work for |
+| Military | While serving in the army, I created some programs on Excel including Battalion status manager, roster generator, minesweeper, etc. I couldn't get those files from the military infranet for security reasons though. |
+
+## Documents
+## Contact
+
+| Docs | Description |
+| ------- | ----------- |
 | [Algorithm](https://github.com/KAIST19/algorithm.git) | Python codes for algorithms and data structures<br>(working on it)|
 | [GitHub](https://github.com/KAIST19/GitHub.git) | What's GitHub?<br>(working on it)|
-| [Pendejo](http://kaist19.github.io/pendejo) | The website of "pendejo" where I used to make tacos |
 | [Python-lib](https://github.com/KAIST19/python-lib.git) | How to use python libraries <br>(working on it)|
-
-## Contact
 
 - [email](mailto:kaist19@kaist.ac.kr)
 - [linkedin](https://www.linkedin.com/in/강현-김-29ba44192/)
