@@ -24,6 +24,7 @@
 | [Network Analysis](https://github.com/KAIST19/network_analysis.git) | Network analysis |
 | [NLP](https://github.com/KAIST19/NLP.git) | Natural language processing |
 | [Python-lib](https://github.com/KAIST19/python-lib.git) | How to use python libraries |
+| [web_scraping](https://github.com/KAIST19/web_scraping) | Web scraping |
 
 ## Contact
 
