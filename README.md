@@ -14,7 +14,7 @@
 | ------- | ----------- |
 | [Pendejo](http://kaist19.github.io/pendejo) | A website I made for restaurant I used to work at |
 | Military | While serving in the army, I created some programs including Battalion status manager, roster generator, minesweeper, etc, using VBA in Excel, HTML, CSS and JavaScript. I couldn't get those files from the military infranet for security reasons though. |
-| [Movie Analysis](http://kaist19.github.io/movie_analysis) | Movie analysis<br>#Network Theory #Web Scraping |
+| [Movie Analysis](https://github.com/KAIST19/movie_analysis) | Movie analysis<br>#Network Theory #Web Scraping |
 
 ## Resources
 
