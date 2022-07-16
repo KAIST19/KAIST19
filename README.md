@@ -15,12 +15,13 @@
 | [Pendejo](http://kaist19.github.io/pendejo) | A website I made for restaurant I used to work at |
 | Military | While serving in the army, I created some programs including Battalion status manager, roster generator, minesweeper, etc, using VBA in Excel, HTML, CSS and JavaScript. I couldn't get those files from the military infranet for security reasons though. |
 
-## Documents
+## Resources
 
-| Docs | Description |
+| Resources | Description |
 | ------- | ----------- |
 | [Algorithm](https://github.com/KAIST19/algorithm.git) | Python codes for algorithms and data structures<br>(working on it)|
 | [GitHub](https://github.com/KAIST19/GitHub.git) | What's GitHub?<br>(working on it)|
+| [NLP](https://github.com/KAIST19/NLP.git) | Natural language processing<br>(working on it) |
 | [Python-lib](https://github.com/KAIST19/python-lib.git) | How to use python libraries <br>(working on it)|
 
 ## Contact
