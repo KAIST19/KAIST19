@@ -21,6 +21,7 @@
 | ------- | ----------- |
 | [Algorithm](https://github.com/KAIST19/algorithm.git) | Python codes for algorithms and data structures<br>(working on it)|
 | [GitHub](https://github.com/KAIST19/GitHub.git) | What's GitHub?<br>(working on it)|
+| [Network Analysis](https://github.com/KAIST19/network_analysis.git) | Network analysis<br>(working on it) |
 | [NLP](https://github.com/KAIST19/NLP.git) | Natural language processing<br>(working on it) |
 | [Python-lib](https://github.com/KAIST19/python-lib.git) | How to use python libraries <br>(working on it)|
 
