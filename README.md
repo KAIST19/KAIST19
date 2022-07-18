@@ -17,12 +17,14 @@
 | [Stock Market Clustering](https://github.com/KAIST19/computational_economics/tree/main/stock_market/corr_graph) | Generates a graph where nodes are stocks and edges are their correlations. Pearson coefficients were used to determine how correlated they are. |
 | [Movie Analysis](https://github.com/KAIST19/movie_analysis) | Movie analysis<br>#Network Theory #Web Scraping |
 
-## Resources
+## Docs
 
-| Resources | Description |
+| Docs | Description |
 | ------- | ----------- |
-| [Algorithm](https://github.com/KAIST19/algorithm.git) | Python codes for algorithms and data structures |
+| [AI](https://github.com/KAIST19/AI.git) | Artificial Intelligence |
+| [Algorithm](https://github.com/KAIST19/algorithm.git) | Algorithms & Data Structures |
 | [GitHub](https://github.com/KAIST19/GitHub.git) | What's GitHub? |
+| [Math](https://github.com/KAIST19/math.git) | Math for Computer Science |
 | [Network Analysis](https://github.com/KAIST19/network_analysis.git) | Network analysis |
 | [NLP](https://github.com/KAIST19/NLP.git) | Natural language processing |
 | [Python-lib](https://github.com/KAIST19/python-lib.git) | How to use python libraries |
