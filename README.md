@@ -9,9 +9,9 @@
 - Interested in **theoretical computer science**
 - Can speak fluent **Korean and English**.
 
-## Docs
+## Books
 
-| Docs | Description |
+| Topic | Description |
 | ------- | ----------- |
 | [AI](https://github.com/KAIST19/AI.git) | Artificial Intelligence |
 | [Algorithm](https://github.com/KAIST19/algorithm.git) | Algorithms & Data Structures |
