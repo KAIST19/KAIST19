@@ -5,9 +5,9 @@
 
 - 김강현 (KH Kim)
 - Living in **Daejeon, South Korea** 🇰🇷
-- **Computer Science** major at KAIST (with a minor in **mathematics**)
-- Interested in **theoretical computer science**
-- Can speak fluent **Korean and English**.
+- **CS** major at KAIST since 2019 (with a minor in **math**)
+- Interested in **theoretical computer science** and **data science**
+- Can speak fluent **Korean** and **English**.
 
 ## Books
 
