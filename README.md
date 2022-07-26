@@ -1,4 +1,4 @@
-# Welcome!
+# 김강현 (KH Kim)
 > **Looking for an internship**
 
 ## About
