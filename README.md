@@ -11,5 +11,5 @@ A dedicated Computer Science major at the Korea Advanced Institute of Science an
 ## Contacts
 - kaist19@kaist.ac.kr
 - [LinkedIn](https://www.linkedin.com/in/강현-김-29ba44192/)
-
+- Baekjoon Online Judge
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kaist19)
